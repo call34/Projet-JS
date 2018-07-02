@@ -14,9 +14,9 @@ function calcule(a,signe,b)
     break;
  }
 }
-console.log(calcule(45,"+",6));
-console.log(calcule(32,"-"12));
-console.log(calcule(65,"-",9));
-console.log(calcule(5,"*",8));
+document.write(calcule(45,"+",6));
+document.write(calcule(32,"-"12));
+document.write(calcule(65,"-",9));
+document.write(calcule(5,"*",8));
 /* cette petite calculette  va nous permettre de voir le fonctionnement de la boucle 
 switch */
